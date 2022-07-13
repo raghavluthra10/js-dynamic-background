@@ -1,0 +1,26 @@
+{
+  "name": "ls",
+  "version": "0.0.0",
+  "description": "basic wallpaper just for practice",
+  "author": "raghavluthra10 <77231964+raghavluthra10@users.noreply.github.com>",
+  "homepage": "https://github.com/raghavluthra10/js-dynamic-background/tree/main/packages/practice-wallpaper#readme",
+  "license": "ISC",
+  "main": "lib/practice-wallpaper.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghavluthra10/js-dynamic-background.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/raghavluthra10/js-dynamic-background/issues"
+  }
+}
