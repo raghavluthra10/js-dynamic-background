@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/raghavluthra10/js-dynamic-background/issues"
+  },
+  "dependencies": {
+    "p5": "^1.4.1"
   }
 }
